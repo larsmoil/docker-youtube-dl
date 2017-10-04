@@ -4,7 +4,7 @@ Supported tags and respective `Dockerfile` links
   * [`latest`](https://github.com/lamoi/docker-youtube-dl/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/lamoi/youtube-dl.svg)](http://microbadger.com/images/lamoi/youtube-dl "Get your own image badge on microbadger.com")
 
 
-What is PhantomJS?
+What is youtube-dl?
 ==================
 
 [youtube-dl](https://github.com/rg3/youtube-dl) is a command-line program to download videos from YouTube.com and other video sites.
